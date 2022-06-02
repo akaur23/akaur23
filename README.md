@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anupreet Kaur
 - 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning SQL and learning how to Tableau to create different data visulizations. 
+- 🌱 I’m currently learning SQL and learning to use Tableau to create different data visulizations. 
 - 📫 How to reach me - through email > Anupreet234@gmail.com
 
 <!---
